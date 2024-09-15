@@ -1,4 +1,4 @@
-# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matin-ghorbani-0a5b24274/)
+# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/matin-ghorbani-0a5b24274/](https://linkedin.com/in/matinghorbani))
 
 My interests are artificial intelligence and web design. I have professional experience working with Tensorflow, PyTorch, Mediapipe, and Yolo versions 5, 7, 8 and I am fluent in JavaScript, C++, C#, and python, and I have a little experience in working with PHP, Dart, GO, Powershell languages. My specialty is machine learning and deep learning. I am currently working with Django and FastAPI and mostly on the web side of the backend.
 
