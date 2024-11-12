@@ -1,4 +1,4 @@
-# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/matin-ghorbani-0a5b24274/](https://linkedin.com/in/matinghorbani))
+# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/matinghorbani](https://linkedin.com/in/matinghorbani))
 
 My interests are artificial intelligence and web design. I have experience working with Tensorflow, and PyTorch.
 
