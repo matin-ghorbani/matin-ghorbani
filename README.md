@@ -1,4 +1,4 @@
-# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/matinghorbani](https://linkedin.com/in/matinghorbani))
+# 💫 About Me: <a href="https://linkedin.com/in/matinghorbani"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) </a>
 
 My interests are artificial intelligence and web design. I have experience working with Tensorflow, and PyTorch.
 
