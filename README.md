@@ -1,6 +1,6 @@
 # 💫 About Me: <a href="https://linkedin.com/in/matinghorbani"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) </a>
 
-My interests are artificial intelligence and web design. I have experience working with Tensorflow, and PyTorch.
+My interests are artificial intelligence and web design. I have experience working with TensorFlow and PyTorch.
 
 <!-- ## 🌐 Socials: -->
 
@@ -9,7 +9,6 @@ My interests are artificial intelligence and web design. I have experience worki
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=matin-ghorbani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matin-ghorbani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matin-ghorbani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matin-ghorbani&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
